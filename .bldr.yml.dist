@@ -1,5 +1,5 @@
 bldr:
-    name: gushphp/gush
+    name: gushphp/gush-core
     description: Gush Project
     profiles:
         travis:
